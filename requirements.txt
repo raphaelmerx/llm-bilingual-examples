@@ -1,0 +1,8 @@
+transformers[torch]
+pandas
+dspy-ai
+openai
+google-generativeai
+python-dotenv
+matplotlib
+scikit-learn

@@ -1,0 +1,53 @@
+tdt	eng	example.gpt4_src	example.gpt4_tgt	Typical	Informative	Intelligible	Translation correct	Overall rating	Comment
+linguajen	language	Hau aprende linguajen foun iha eskola.	I am learning a new language at school.	Yes	Somewhat	Yes	Yes	4 Good	Translation: linguajen foun ida
+veteranu	veteran	Ami nia avó mak veteranu iha guerra.	Our grandfather is a veteran of the war.	Yes	Somewhat	Yes	Somewhat	4 Good	Natural: - Ami-nia avó mak veteranu iha funu.
+bomba	bomb	Bomba ne'e nakfilak iha uma laran.	The bomb exploded inside the house.	No	No	Yes	No	3 Average	
+tradutór	translator	Nia hanorin-an hanesan tradutór iha universidade.	She works as a translator at the university.	No	Somewhat	Somewhat	No	3 Average	Translation: - Nia servisu hanesan tradutòr iha universidade
+profesionalismu	professional	Ema ne'e hatudu profesionalismu iha servisu nia laran.	This person demonstrates professionalism in their work.	Yes	Somewhat	Yes	Yes	5 Very good	
+assosiasaun	association	Assosiasaun ne'e ajuda komunidade hodi dezenvolve projetu sira.	The association helps the community to develop projects.	Yes	Somewhat	Yes	Yes	5 Very good	
+examplu	exemple	Ita bele uza examplu ida ne'e hodi hatene liu tan.	You can use this example to understand better.	Yes	Somewhat	Yes	Somewhat	3 Average	Translation: - ezemplu
+HIV-SIDA	HIV-AIDS	Ema tenke hatene kona-ba prevensaun husi HIV-SIDA.	People need to know about the prevention of HIV-AIDS.	Yes	Yes	Yes	Yes	5 Very good	
+duut	grass	Labarik sira halimar iha duut ne'ebé toos.	The children are playing on the grass in the field.	No	Somewhat	Yes	No	2: Pretty bad	Labarik sira halimar iha duut ne'ebé iha kampo.
+másimu	maximum	Ami bele lori másimu 20 ema ba pasiar iha loron Sabadu.	We can take a maximum of 20 people for the trip on Saturday.	Yes	Yes	Yes	Somewhat	5 Very good	Ema 20 la'ós 20 ema
+aniversáriu	anniversary	Ami celebra aniversáriu kaben ami nia tinan lima iha loron Sabadu.	We celebrated our fifth wedding anniversary on Saturday.	Yes	Yes	Yes	Yes	4 Good	Tetun spelling: selebra, ami-nia
+inísiu	beginning, start	Inísiu loron-nain ida ne'e, ami hanoin atu halo festa.	At the beginning of this week, we thought about having a party.	No	Somewhat	Somewhat	No	3 Average	Inísiu semana ida ne'e, ami hanoin atu halo festa.
+formasaun	training	Ema ne'ebé servisu iha governu tenke hetan formasaun kona-ba lei foun.	People who work in the government need to receive training on the new law.	Yes	No	Yes	Yes	5 Very good	
+matadalan	guide	Matadalan ne'e sei ajuda ita hatene dalan ba uma.	This guide will help you find the way home.	Yes	Somewhat	Yes	Yes	4 Good	
+kompetisaun	competition	Kompetisaun iha eskola ne'e halo estudante sira hakarak aprende liu.	The competition at this school makes students want to learn more.	Yes	Somewhat	Yes	Yes	5 Very good	
+Fijianu	Fijian	Ami nia vizinyu hosi Fiji, nia hanoin barak kona ba kultura Fijianu.	Our neighbor from Fiji often talks about Fijian culture.	Yes	Somewhat	Yes	Yes	4 Good	Tetun spelling: viziñu
+marítima	maritime	Timor-Leste nian ekonomia depende barak ba atividade marítima.	Timor-Leste's economy heavily depends on maritime activities.	Yes	Somewhat	Yes	Yes	5 Very good	
+bola	ball	Labarik sira halimar ho bola iha kampu.	The children are playing with a ball in the field.	Yes	Somewhat	Yes	Yes	5 Very good	
+sékulu	century	Iha sékulu ne'e, Timor-Leste hetan independénsia hosi Indonézia.	In this century, Timor-Leste gained independence from Indonesia.	Yes	Yes	Yes	Yes	5 Very good	
+sai	exit, leave	Nia sai hosi uma tuku hitu dader.	He leaves the house at seven in the morning.	Yes	Yes	Yes	Yes	5 Very good	
+estudante	student	Estudante sira iha universidade ne'e aprende kona-ba sains no teknologia.	The students at this university are learning about science and technology.	Yes	Somewhat	Yes	Somewhat	4 Good	Tetun spelling: siénsia
+dadeer	morning	Hau gosta hemu kafe iha dadeer.	I like to drink coffee in the morning.	Yes	Somewhat	Yes	Yes	5 Very good	
+kolektivu	collective	Ita nia kolektivu halo servisu hamutuk hodi ajuda komunidade.	Our collective works together to help the community.	No	No	No	No	2: Pretty bad	Ita nia servisu kolektivu hamutuk atu ajuda komunidade.
+konkorda	agree	Sira hotu-hotu konkorda ho plano ida-ne'e.	They all agree with this plan.	Yes	No	Yes	Yes	4 Good	
+notísia	news	Notísia ne'e importante atu hatene kona-ba situasaun polítika iha Timor-Leste.	This news is important to understand the political situation in Timor-Leste.	Yes	Yes	Yes	Yes	5 Very good	
+bele	can, be able to	Ita bele baa merkadu aban dadeer.	We can go to the market tomorrow morning.	Yes	Somewhat	Yes	Yes	4 Good	Tetun spelling: ba
+órgaun	organ	Orgaun governu nian halo desizaun importante ba nasaun.	The government organ makes important decisions for the nation.	Yes	Somewhat	Yes	Yes	4 Good	
+parke	park	Ita bele halimar iha parke nee.	You can relax in this park.	No	Somewhat	No	No	3 Average	Tetun spelling: jardin
+domisíliu	residence	Sira nia domisíliu iha Dili, maibé sira la bele fila ba iha loron-loron.	Their residence is in Dili, but they cannot return every day.	No	No	No	No	2: Pretty bad	Sira nia hela-fatin iha Dili, maibé sira la bele mai loron-loron.
+interrogatóriu	questioning	Polísia halo interrogatóriu ba ema ne'ebé suspeitu iha krime ne'e.	The police conducted a questioning of the person suspected in the crime.	Yes	Yes	Yes	Yes	4 Good	
+kandidata	candidate	Maria mak kandidata ba prezidente iha eleisaun tinan ida oin.	Maria is a candidate for president in the upcoming election.	Yes	Yes	Yes	Yes	4 Good	
+insidensia	insidence	Insidensia ne'e maka la'o ba polísia atu buka solusaun.	This incident was reported to the police to find a solution.	No	Somewhat	Somewhat	No	2: Pretty bad	Insidensia ne’e hato’o ba polisia hodi buka solusaun.
+kompañia	company	Ami nia kompaniia nian iha Dili.	Our company is located in Dili.	No	No	No	No	2: Pretty bad	Ami nia kompañia lokaliza iha Dili.
+madrugada	pre-dawn	Hau gosta lao iha madrugada tanba iha tempu ne'ebá ema seidauk barak.	I like to walk during the pre-dawn hours because there aren't many people around.	Yes	Yes	Yes	Yes	4 Good	
+dezlokadu	displaced person	Ema dezlokadu sira ne'e presiza ajuda hodi hetan uma foun.	The displaced persons need help to find new homes.	Somewhat	Yes	Yes	Yes	4 Good	
+fukun	source	Rai ne'e fukun hosi bee.	This land is the source of water.	Somewhat	Somewhat	Somewhat	Somewhat	3 Average	Rai ne’e mak bee-matan hun.
+rezisténsia	resistance	Povu Timor-Leste hatudu rezisténsia ba okupasaun estranjeiru.	The people of Timor-Leste showed resistance to foreign occupation.	Yes	Yes	Yes	Yes	4 Good	
+ambitu	context	Iha ambitu edukasaun, estudante sira tenki aprende lian Tetun no lian Inglez.	In the context of education, students need to learn both Tetun and English.	Yes	Yes	Yes	Yes	4 Good	
+alfándega	customs (for import)	Ami tenki pasa hosi alfándega antes de tama iha Timor-Leste.	We need to go through customs before entering Timor-Leste.	Yes	Yes	Yes	Yes	4 Good	
+mutin	white	Hau gosta ko'alia ho baju mutin.	I like to wear white clothes.	No	No	No	No	2: Pretty bad	Ha'u gosta hatais roupa mutin.
+tinan	year	Hau sei fila ba Timor-Leste iha tinan oin.	I will return to Timor-Leste next year.	Yes	Yes	Yes	Yes	4 Good	
+ha’u-nia	my	Ha’u-nia kareta ne’e foun.	My car is new.	Yes	Yes	Yes	Yes	4 Good	
+rai	country	Timor-Leste mak rai ida ne'ebe iha laran kultura barak.	Timor-Leste is a country rich in culture.	Yes	Yes	Yes	No	3 Average	Timor-Leste mak rai ida ne'ebe riku ho kultura barak.
+komarka	jail	Nia hela iha komarka tanba nia halo krime.	He is in jail because he committed a crime.	Yes	Yes	Yes	Yes	4 Good	
+aprovizionamentu	procurement	Aprovizionamentu ba projetu ne'e tenki halo ho atensaun atu la bele iha falta.	The procurement for this project must be done carefully to avoid shortages.	Yes	Yes	Yes	Yes	5 Very good	
+traduz	translate	Nia bele traduz livru ne'e ba lian Tetun.	He can translate this book into Tetun.	Yes	Yes	Yes	Yes	5 Very good	
+programa	plan, policy	Sira iha programa ida atu ajuda estudante sira iha eskola.	They have a plan to help students in school.	Yes	Yes	Yes	Yes	5 Very good	
+fiskalizasaun	inspection, monitoring	Fiskalizasaun iha merkadu ne'e halo hodi garante katak ema sira la halo violasaun ba lei.	The inspection in this market is conducted to ensure that people do not violate the law.	Yes	Yes	Yes	Yes	5 Very good	
+finalizasaun	finalisation	Finalizasaun ba projetu ne'e sei akontese iha fulan oin.	The finalisation of this project will happen next month.	Yes	Yes	Yes	Yes	5 Very good	
+espíritu	spirit	Nia iha espíritu forte atu ajuda komunidade.	He has a strong spirit to help the community.	Yes	Yes	Yes	Yes	5 Very good	
+									
+								3.98	

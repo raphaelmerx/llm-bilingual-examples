@@ -1,0 +1,53 @@
+tdt	eng	example.llama_src	example.llama_tgt	Typical	Informative	Intelligible	Translation correct	Overall rating	Comment
+linguajen	language	Portuges mak linguajen ofisial iha Timor-Leste.	Portuguese is an official language in East Timor.	Yes	Yes	Yes	Yes	5 Very good	
+veteranu	veteran	Ami respeita veteranu sira ne'ebé servisu iha forsa armada durante funu.	I respect the veterans who served in the armed forces during the war.	Yes	Yes	Yes	Somewhat	4 Good	Ha'u laos "Ami"
+bomba	bomb	Militar sira uza bomba hodi ataka inimigu sira.	The military used bombs to attack the enemy.	Yes	Yes	Yes	Yes	4 Good	
+tradutór	translator	Ita bele uza tradutór atu ajudá ita tradús dokumentu importante.	You can use a translator to help you translate important documents.	Yes	Yes	Yes	Yes	5 Very good	
+profesionalismu	professional	Ita tenki hatudu profesionalismu iha serbisu nian.	We must show professionalism in our work.	Yes	Yes	Yes	Somewhat	4 Good	Ita tenki hatudu profesionalismu iha serbisu fatin.
+assosiasaun	association	Ami hakarak partisipa iha assosiasaun ida ne'ebé sei ajuda komunidade.	I want to participate in an association that will help the community.	Yes	Yes	Yes	Yes	4 Good	
+examplu	exemple	Ha'u uza exemplu ida ne'e atu esplika konseitu ne'e.	I use this example to explain the concept.	Yes	Somewhat	Yes	Somewhat	4 Good	Tetun spelling: ezemplu
+HIV-SIDA	HIV-AIDS	Governu tenki kria kampanha edukasaun ba komunidade sira kona-ba HIV-SIDA.	The government needs to create an education campaign for communities about HIV-AIDS.	Yes	Yes	Yes	Somewhat	4 Good	Tetun spelling: kampaña
+duut	grass	Ami la'ó iha duut no sente fresku.	I walked on the grass and felt refreshed.	Yes	Yes	Yes	Yes	4 Good	
+másimu	maximum	Kapasidade másimu ba pasajeiru iha ôtobus ne'e mak 50.	The maximum capacity for passengers on this bus is 50.	Yes	Yes	Yes	Yes	5 Very good	
+aniversáriu	anniversary	Ami sei halo festa ba aniversáriu husi ami nia inan.	I will throw a party for my mother's anniversary.	Somewhat	Somewhat	Somewhat	No	3 Average	Ami sei halo festa ba ami-nia inan nia aniversáriu.
+inísiu	beginning, start	Projetu ida ne'e sei hahu iha inísiu fulan Janeiru.	This project will start at the beginning of January.	Yes	Yes	Yes	Yes	4 Good	
+formasaun	training	Ha'u hetan formasaun ida iha área saúde no desidu atu serbisu iha ospitál.	I received training in the health sector and decided to work in a hospital.	Yes	Yes	Yes	Somewhat	4 Good	desidi. PS: If it's typo, please change the translation to "Yes".
+matadalan	guide	Ami uza matadalan ne'e atu ba Dili ha'u.	I used this guide to get to Dili.	Somewhat	Somewhat	No	No	2: Pretty bad	Ami uza matadalan ne'e atu ba Dili.
+kompetisaun	competition	Klube futebol nian kompetisaun iha Dili sei hahu iha fulan Maiu.	The football club competition in Dili will start in May.	Yes	Yes	Yes	Yes	4 Good	
+Fijianu	Fijian	Ami ko'alia ho ema Fijianu iha Dili.	I spoke with a Fijian person in Dili.	Yes	Yes	Yes	Yes	4 Good	
+marítima	maritime	Kompanha marítima ida iha Timor-Leste fornese servisu transportasaun ba iha tasi.	A maritime company in Timor-Leste provides transportation services across the sea.	Yes	Yes	Yes	Somewhat	4 Good	Tetun spelling: Kompañia
+bola	ball	Labarik sira halo joga bola iha kampo.	The children are playing ball in the field.	Somewhat	Yes	Yes	Somewhat	4 Good	Labarik sira joga bola iha kampo.
+sékulu	century	Sékulu XXI nu'udar sékulu ida ne'ebé teknologia dezenvolve rapidamente.	The 21st century is a century in which technology is developing rapidly.	Yes	Yes	Yes	Yes	4 Good	
+sai	exit, leave	Ha'u sai husi uma iha tuku 7.	I leave the house at 7 o'clock.	Yes	Yes	Yes	Yes	4 Good	
+estudante	student	Estudante sira iha eskola sekundária aprende matemátika no portugés.	Students in high school learn mathematics and Portuguese.	Yes	Yes	Yes	Yes	4 Good	
+dadeer	morning	Ha dadeer, ami bá iha eskola.	In the morning, I go to school.	Somewhat	Yes	Yes	Somewhat	4 Good	Iha dadeer, ami bá eskola.
+kolektivu	collective	Sira servisu kolektivu hodi atinji objetivu sira-nian.	They work collectively to achieve their objectives.	Yes	Yes	Yes	Yes	4 Good	
+konkorda	agree	Ami konkorda ho plano ne'e.	I agree with this plan.	Yes	Yes	Yes	No	4 Good	Ha'u la'os "Ami"
+notísia	news	Ha'u rona notísia kona-ba eleisaun prezidente foun iha televizaun.	I heard the news about the new presidential election on television.	Yes	Yes	Yes	Yes	4 Good	
+bele	can, be able to	Ha'u bele ko'alia Inglés.	I can speak English.	Yes	Yes	Yes	Yes	4 Good	
+órgaun	organ	Órgaun ida ne'e importante ba sistema ne'e nian.	This organ is important for the system's functioning.	Yes	Somewhat	Yes	Yes	4 Good	
+parke	park	Ami ba parke ho labarik sira atu halo aktividade fiziku.	I went to the park with the kids to do some physical activities.	Somewhat	Yes	Yes	No	3 Average	Ami ba jardin ho labarik sira atu halo atividade fiziku.
+domisíliu	residence	Ha'u moris iha domisíliu ida iha Dili.	I live in a residence in Dili.	No	No	No	No	2: Pretty bad	Hau hela iha rezidensia ida iha Dili.
+interrogatóriu	questioning	Polísia halo interrogatóriu ba suspeitu kona-ba kazu ne'e.	The police conducted questioning of the suspect about the case.	Yes	Yes	Yes	Yes	4 Good	
+kandidata	candidate	Kandidata ba eleisaun prezidensiál mai husi partidu polítiku diferente.	The candidate for the presidential election comes from a different political party.	Yes	Yes	Yes	Yes	4 Good	
+insidensia	insidence	Governu tenke hadia insidensia kriminalidade iha komunidade.	The government needs to address the incidence of crime in the community.	Somewhat	Yes	Somewhat	Somewhat	3 Average	Governu tenke rezolve insidensia kriminalidade iha komunidade.
+kompañia	company	Ha'u servisu iha kompañia ida iha Dili.	I work for a company in Dili.	Yes	Yes	Yes	Yes	4 Good	
+madrugada	pre-dawn	Ami sae madrugada atu halo orasaun.	I wake up pre-dawn to pray.	Somewhat	Somewhat	Somewhat	No	3 Average	Ha'u hader madrugada atu halo orasaun.
+dezlokadu	displaced person	Dezlokadu sira iha Timor-Leste barak mak lakon sira nia uma no hela fatin durante konflitu.	Many displaced persons in Timor-Leste lost their homes and livelihoods during the conflict.	No	Somewhat	Somewhat	Somewhat	3 Average	Ema dezlokadu sira iha Timor-Leste barak mak lakon sira nia uma no hela fatin durante konflitu.
+fukun	source	Bee hau nia fukun ba informasaun ne'e mak hau nia kolega.	The source of this information is my colleague.	No	No	No	No	2: Pretty bad	Informasaun ne’e nia fonte mak ha’u nia kolega.
+rezisténsia	resistance	Povu Timor-Leste hakarak rezisténsia hasoru okupasaun Indonézia iha tempu lalu.	The people of Timor-Leste wanted resistance against the Indonesian occupation in the past.	Yes	Yes	Yes	No	3 Average	Povu Timor-Leste hakarak rezisténsia hasoru okupasaun Indonézia iha tempu pasadu.
+ambitu	context	Kontextu ne'e importante tebes iha diskusaun ida, tanba ambitu ne'e bele muda tuir tempu no mós kondisaun.	The context is very important in a discussion, because it can change over time and also depending on the condition.	Somewhat	Yes	Yes	Yes	4 Good	
+alfándega	customs (for import)	Ami tenki pasa alfándega molok ami tama ba rai seluk.	I need to go through customs before I enter another country.	Yes	Yes	Yes	Yes	4 Good	
+mutin	white	Fatin ne'e mutin no liman.	This place is white and clean.	No	No	Somewhat	Somewhat	2: Pretty bad	Fatin ne'e mutin no moos.
+tinan	year	Ha'u iha tinan 25.	I am 25 years old.	Yes	Somewhat	Yes	Yes	4 Good	
+ha’u-nia	my	Ha'u-nia uma iha Dili.	My house is in Dili.	Yes	Somewhat	Yes	Yes	4 Good	
+rai	country	Ami moris iha rai Timor-Leste.	I was born in the country of Timor-Leste.	Yes	Yes	Yes	Yes	4 Good	Ha'u la'ós "Ami".
+komarka	jail	Polisia kaer nia ba komarka tanba nia komete krime.	The police took him to jail because he committed a crime.	Yes	Yes	Yes	Yes	4 Good	
+aprovizionamentu	procurement	Governu tenki halo aprovizionamentu ba ekipamentu eskola nian.	The government needs to procure equipment for the schools.	Yes	Yes	Yes	Yes	4 Good	
+traduz	translate	Ha'u sei traduz dokumentu ida ba lian Inglés.	I will translate a document into English.	Yes	Yes	Yes	Yes	4 Good	
+programa	plan, policy	Governu dezenvolve programa ida atu hadi'a ekonomia nasional.	The government develops a plan to improve the national economy.	Yes	Yes	Yes	Yes	4 Good	
+fiskalizasaun	inspection, monitoring	Governu halo fiskalizasaun ba projesu konstrusaun estrada nasional.	The government conducts inspections on the national road construction project.	Yes	Yes	Yes	Somewhat	3 Average	Tetun spelling: projetu la'ós "projesu"
+finalizasaun	finalisation	Prosesu ne'e sei remata iha finalizasaun projetu nian.	The process will end with the finalisation of the project.	Yes	Yes	Yes	Yes	4 Good	
+espíritu	spirit	Espíritu sira iha kultura Timor-Leste nian importante tebes.	Spirits play a very important role in East Timorese culture.	No	Somewhat	Somewhat	No	2: Pretty bad	Espíritu nia papel iha kultura Timor-Leste nian importante tebes.
+									
+								3.72	

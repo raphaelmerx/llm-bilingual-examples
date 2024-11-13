@@ -1,0 +1,53 @@
+fra	eng	Difficulty	example.gpt4_src	example.gpt4_tgt	Typical	Informative	Intelligible	Translation correct	Overall rating	Comment	Example quality	Comment	4.80
+croissant	crescent	medium	La lune était en forme de croissant dans le ciel nocturne.	The moon was in the shape of a crescent in the night sky.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+session	session	easy	La session de formation commence à 9 heures demain matin.	The training session starts at 9 AM tomorrow morning.	Yes	Yes	Yes	Somewhat	4 Good		5 Very good		5
+fric	cash	medium	J'ai besoin de plus de fric pour acheter cette voiture.	I need more cash to buy this car.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+surnom	nickname	medium	Son surnom au lycée était "Le Génie" à cause de ses excellentes notes en mathématiques.	His nickname in high school was "The Genius" because of his excellent grades in mathematics.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+géographie	geography	easy	La géographie de la France est très variée, avec des montagnes, des plaines et des côtes.	The geography of France is very varied, with mountains, plains, and coasts.	Yes	Yes	Yes	Yes	5 Very good		4 Good	Intelligible	4
+pair	peer	medium	Elle a demandé l'avis de ses pairs avant de prendre une décision importante.	She sought the advice of her peers before making an important decision.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+pisse	piss	easy	Il est allé derrière l'arbre pour faire une pisse rapide.	He went behind the tree to take a quick piss.	Yes	Yes	Yes	No	3 Average		3 Average	Translationese	3
+vigoureux	vigorous	medium	Le jardinier a fait un effort vigoureux pour arracher les mauvaises herbes.	The gardener made a vigorous effort to pull out the weeds.	Yes	Yes	Yes	Somewhat	4 Good		5 Very good		5
+canyon	canyon	medium	Le Grand Canyon est l'un des sites touristiques les plus célèbres des États-Unis.	The Grand Canyon is one of the most famous tourist attractions in the United States.	Yes	Yes	Yes	Yes	5 Very good		4 Good		4
+éraflure	scratch	medium	J'ai une petite éraflure sur le bras après être tombé de mon vélo.	I have a small scratch on my arm after falling off my bike.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+privilège	privilege	medium	Avoir accès à une éducation de qualité est un privilège que tout le monde ne peut pas se permettre.	Having access to quality education is a privilege that not everyone can afford.	Yes	Yes	Yes	Yes	5 Very good		4 Good	Intelligible	4
+rade	harbor	hard	Le bateau est entré dans la rade pour éviter la tempête.	The ship entered the harbor to avoid the storm.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+voyou	thug	medium	Le voyou a été arrêté par la police après avoir volé une voiture.	The thug was arrested by the police after stealing a car.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+exaucer	grant	hard	Elle a prié pour que ses souhaits soient exaucés.	She prayed for her wishes to be granted.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+draguer	flirt	medium	Il aime draguer les filles au café du coin.	He likes to flirt with the girls at the local café.	Yes	Yes	Yes	Yes	4 Good		4 Good	Translationese	4
+avaler	swallow	medium	Il a dû avaler un comprimé pour calmer son mal de tête.	He had to swallow a pill to ease his headache.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+grippe	flu	medium	J'ai attrapé la grippe et je dois rester au lit pendant quelques jours.	I caught the flu and need to stay in bed for a few days.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+saucisson	sausage	medium	J'ai acheté du saucisson au marché pour notre pique-nique.	I bought some sausage at the market for our picnic.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+progéniture	offspring	hard	Les parents sont très fiers de leur progéniture.	The parents are very proud of their offspring.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+meuble	furniture	medium	Nous avons acheté de nouveaux meubles pour le salon.	We bought new furniture for the living room.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+sirop	syrup	medium	J'aime mettre du sirop d'érable sur mes crêpes le matin.	I love putting maple syrup on my pancakes in the morning.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+fortune	fortune	easy	Il a fait fortune en investissant dans l'immobilier.	He made a fortune by investing in real estate.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+bus	bus	easy	J'attends le bus à l'arrêt depuis dix minutes.	I have been waiting for the bus at the stop for ten minutes.	Yes	Yes	Yes	Somewhat	4 Good		5 Very good		5
+collaboration	collaboration	easy	La collaboration entre les deux entreprises a conduit à un produit innovant.	The collaboration between the two companies led to an innovative product.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+trotter	trot	medium	Le cheval a commencé à trotter autour du champ.	The horse started to trot around the field.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+expansion	expansion	medium	L'expansion de l'entreprise a permis de créer de nombreux emplois dans la région.	The expansion of the company has created many jobs in the region.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+échange	exchange	medium	Nous avons fait un échange de cadeaux lors de la fête de Noël.	We did a gift exchange during the Christmas party.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+bêtement	stupidly	medium	Il a bêtement oublié ses clés à la maison.	He stupidly forgot his keys at home.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+crevé	exhausted	hard	Après une longue journée de travail, je suis complètement crevé.	After a long day at work, I am completely exhausted.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+obligatoire	mandatory	medium	Le port du casque est obligatoire pour tous les cyclistes.	Wearing a helmet is mandatory for all cyclists.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+symptôme	symptom	easy	Les maux de tête sont un symptôme courant de la grippe.	Headaches are a common symptom of the flu.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+restriction	restriction	medium	En raison de la pandémie, le gouvernement a imposé des restrictions de voyage.	Due to the pandemic, the government imposed travel restrictions.	Yes	Yes	Yes	Yes	5 Very good		4 Good		4
+flocon	flake	hard	Un flocon de neige est tombé doucement sur le sol.	A snowflake gently fell to the ground.	Yes	Somewhat	Yes	Yes	4 Good		4 Good		4
+épeler	spell	medium	Peux-tu épeler ton nom, s'il te plaît ?	Can you spell your name, please?	Yes	Somewhat	Yes	Yes	4 Good		5 Very good		5
+figurine	figurine	medium	Elle a acheté une belle figurine en porcelaine pour sa collection.	She bought a beautiful porcelain figurine for her collection.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+media	media	easy	Les médias jouent un rôle crucial dans la diffusion de l'information.	The media play a crucial role in the dissemination of information.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+justement	precisely	medium	C'est justement ce que je voulais dire.	That's precisely what I wanted to say.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+stimulant	stimulant	medium	Le café est un stimulant populaire pour commencer la journée.	Coffee is a popular stimulant to start the day.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+tomber	fall	medium	Il a glissé sur une peau de banane et est tombé par terre.	He slipped on a banana peel and fell to the ground.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+cauchemar	nightmare	medium	J'ai fait un cauchemar terrible la nuit dernière, et je me suis réveillé en sueur.	I had a terrible nightmare last night, and I woke up in a sweat.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+chiche	dare	hard	Tu veux parier sur le résultat du match ? Chiche !	Do you dare to bet on the outcome of the game? Dare!	Yes	Yes	Yes	Yes	5 Very good		4 Good		4
+on	we	easy	On va au cinéma ce soir.	We are going to the cinema tonight.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+zombie	zombie	easy	Le film d'horreur mettait en scène un groupe de zombies attaquant une petite ville.	The horror movie featured a group of zombies attacking a small town.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+frisson	shiver	hard	Elle a ressenti un frisson en entendant le bruit étrange dans la maison.	She felt a shiver when she heard the strange noise in the house.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+prolonger	extend	medium	Nous devons prolonger notre séjour à Paris de deux jours.	We need to extend our stay in Paris by two days.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+patient	patient	medium	Le médecin a demandé au patient d'attendre dans la salle d'attente.	The doctor asked the patient to wait in the waiting room.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+assommer	knock	hard	Le boxeur a réussi à assommer son adversaire avec un coup puissant.	The boxer managed to knock out his opponent with a powerful punch.	Yes	Yes	Yes	Yes	5 Very good		4 Good	Translationese	4
+hamac	hammock	medium	J'adore lire un livre en me balançant doucement dans mon hamac.	I love reading a book while gently swaying in my hammock.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+ver	worm	medium	Le ver de terre est essentiel pour la santé du sol.	The earthworm is essential for soil health.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+passionnant	exciting	medium	Le film était tellement passionnant que je ne pouvais pas détourner les yeux de l'écran.	The movie was so exciting that I couldn't take my eyes off the screen.	Yes	Yes	Yes	Yes	5 Very good		5 Very good		5
+													
+									4.84				

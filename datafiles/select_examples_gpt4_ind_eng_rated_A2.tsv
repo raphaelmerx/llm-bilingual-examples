@@ -1,0 +1,51 @@
+ind	eng	example.gpt4_src	example.gpt4_tgt	Typical	Informative	Intelligible	Translation correct	Overall rating	Comment
+sehari-hari	everyday	Saya selalu minum kopi setiap pagi sebagai bagian dari rutinitas sehari-hari saya.	I always drink coffee every morning as part of my everyday routine.	Yes	Yes	Somewhat	Yes	4 Good	
+hitam	black	Kucing itu berwarna hitam dan sangat lucu.	The cat is black and very cute.	Yes	Yes	Yes	Yes	5 Very good	
+buatkan	make	Tolong buatkan saya secangkir kopi.	Please make me a cup of coffee.	Yes	Yes	Yes	Yes	5 Very good	
+berdebar	throb	Jantungku berdebar kencang saat menunggu hasil ujian.	My heart was throbbing fast while waiting for the exam results.	Yes	Yes	Yes	Somewhat	3 Average	Correct ENG translation: Jantungku berdebar kencang = My heat was beating fast  My heart was beating fast as I waited for the exam results.
+kungfu	kungfu	Dia belajar kungfu sejak kecil untuk melindungi dirinya.	He has been learning kungfu since childhood to protect himself.	Yes	Yes	Yes	Yes	5 Very good	
+lembur	overtime	Saya harus lembur malam ini untuk menyelesaikan proyek.	I have to work overtime tonight to finish the project.	Yes	Yes	Yes	Yes	5 Very good	
+menjijikan	disgusting	Bau sampah di tempat pembuangan itu sangat menjijikan.	The smell of garbage at the dump is very disgusting.	Yes	Yes	Yes	Yes	4 Good	Would be good to put noun into "Tempat Pembuangan Sampah"; so its more clear in a sentence. Suggested translation: Bau sampah di tempat pembuangan sampah itu sangat menjijikan.
+menanyai	question	Polisi menanyai saksi untuk mendapatkan informasi lebih lanjut tentang kejadian tersebut.	The police questioned the witness to gather more information about the incident.	Yes	Yes	Yes	Yes	5 Very good	
+dimengerti	understood	Penjelasan guru itu mudah dimengerti oleh semua siswa.	The teacher's explanation was easily understood by all the students.	Yes	Yes	Yes	Yes	5 Very good	
+dirancang	planned	Proyek ini dirancang untuk selesai dalam waktu enam bulan.	This project is planned to be completed within six months.	Yes	Yes	Yes	No	3 Average	dirancang = designed direncanakan = planned
+mainan	toy	Anak-anak itu bermain dengan mainan baru mereka di taman.	The children are playing with their new toys in the park.	Yes	Yes	Yes	Yes	5 Very good	
+dikenal	known	Dia dikenal sebagai penyanyi yang sangat berbakat di seluruh negeri.	She is known as a very talented singer throughout the country.	Yes	Yes	Yes	Yes	5 Very good	
+iris	slice	Tolong iris bawang merah ini tipis-tipis untuk salad.	Please slice this red onion thinly for the salad.	Yes	Yes	Yes	Yes	5 Very good	
+rehabilitasi	rehabilitation	Setelah kecelakaan itu, dia menjalani program rehabilitasi selama enam bulan.	After the accident, he underwent a six-month rehabilitation program.	Yes	Yes	Yes	Yes	5 Very good	
+saudari	sister	Saudari saya bekerja sebagai dokter di rumah sakit.	My sister works as a doctor at the hospital.	Yes	Yes	Yes	Yes	5 Very good	
+berdarah	bleeding	Luka di tangannya berdarah setelah terjatuh dari sepeda.	The wound on his hand was bleeding after he fell off his bike.	Yes	Yes	Somewhat	Yes	4 Good	Tangannya berdarah setelah jatuh dari sepeda -> more Intelligible
+gunung	mountain	Kami mendaki gunung setiap akhir pekan untuk menikmati pemandangan.	We hike the mountain every weekend to enjoy the view.	Yes	Yes	Yes	Somewhat	4 Good	We hike a mountation every weekend to enjoy the view -> would be a better translation
+bernegosiasi	negotiate	Mereka harus bernegosiasi dengan pihak lain untuk mencapai kesepakatan.	They have to negotiate with the other party to reach an agreement.	Yes	Yes	Yes	Yes	5 Very good	
+berfoto	take a photo	Kami berfoto di depan candi Borobudur saat liburan.	We took a photo in front of the Borobudur temple during our vacation.	Yes	Yes	Yes	Yes	5 Very good	
+kebajikan	virtue	Kebajikan adalah salah satu nilai yang diajarkan oleh orang tua kepada anak-anak mereka.	Virtue is one of the values taught by parents to their children.	Yes	Yes	Yes	Yes	5 Very good	
+menuntun	guide	Guru itu menuntun murid-muridnya dengan sabar.	The teacher guides her students patiently.	Yes	Yes	Yes	Yes	5 Very good	
+duka	grief	Dia merasakan duka yang mendalam setelah kehilangan ibunya.	He felt deep grief after losing his mother.	Yes	Yes	Yes	Yes	5 Very good	
+disalahkan	blamed	Dia disalahkan atas kesalahan yang sebenarnya tidak dia lakukan.	He was blamed for a mistake he didn't actually make.	Yes	Yes	Yes	Yes	5 Very good	
+status	status	Status pekerjaan saya saat ini adalah manajer proyek.	My current job status is project manager.	Somewhat	Yes	Yes	Yes	4 Good	For the typical sentence you use "posisi" than "status" - posisi pekerjaan saya saat ini adalah manajer proyek.
+tabungan	savings	Saya menabung sebagian dari gaji saya setiap bulan untuk tabungan masa depan.	I save a portion of my salary every month for future savings.	Yes	Yes	Yes	Yes	5 Very good	
+perapian	fireplace	Kami duduk di depan perapian sambil menikmati secangkir teh hangat.	We sat in front of the fireplace while enjoying a cup of warm tea.	Yes	Yes	Yes	Yes	5 Very good	
+meriam	cannon	Meriam itu ditempatkan di atas bukit untuk melindungi kota dari serangan musuh.	The cannon was placed on the hill to protect the city from enemy attacks.	Yes	Yes	Yes	Yes	5 Very good	
+kelihatannya	apparently	Kelihatannya dia tidak akan datang ke pesta malam ini.	Apparently, he is not coming to the party tonight.	Yes	Yes	Yes	Yes	4 Good	Maybe "it seems" will be more typical translation for "kelihatanya"
+biarkan	let	Biarkan dia pergi jika itu yang dia inginkan.	Let him go if that's what he wants.	Yes	Yes	Yes	Yes	5 Very good	
+mahal	expensive	Harga mobil itu sangat mahal.	The price of that car is very expensive.	Yes	Yes	Yes	Yes	5 Very good	
+kekhawatiran	concern	Kekhawatiran tentang perubahan iklim semakin meningkat di seluruh dunia.	Concern about climate change is increasing around the world.	Yes	Yes	Yes	Yes	5 Very good	
+tahu	know	Apakah kamu tahu di mana letak perpustakaan?	Do you know where the library is?	Yes	Yes	Yes	Yes	5 Very good	
+lusa	day after tomorrow	Kita akan pergi ke pantai lusa.	We will go to the beach the day after tomorrow.	Yes	Yes	Yes	Yes	5 Very good	
+tertua	oldest	Dia adalah anak tertua di keluarganya.	He is the oldest child in his family.	Yes	Yes	Yes	Yes	5 Very good	
+mendirikan	establish	Mereka berencana mendirikan sebuah sekolah baru di desa itu tahun depan.	They plan to establish a new school in the village next year.	Yes	Yes	Yes	Yes	5 Very good	
+dahsyat	awesome	Pertunjukan kembang api tadi malam benar-benar dahsyat!	The fireworks show last night was truly awesome!	Somewhat	Yes	Yes	Somewhat	3 Average	Dahsyat can mean awesome; but we use the word in everyday life more to explain: "tremendous" thant "awesome"
+goreng	fried	Ayam goreng ini sangat renyah dan lezat.	This fried chicken is very crispy and delicious.	Yes	Yes	Yes	Yes	5 Very good	
+merindukan	miss	Aku sangat merindukan keluargaku yang tinggal di luar negeri.	I really miss my family who live abroad.	Yes	Yes	Yes	Yes	5 Very good	
+pemakaman	funeral	Keluarga besar berkumpul untuk menghadiri pemakaman nenek mereka.	The extended family gathered to attend their grandmother's funeral.	Yes	Yes	Yes	Yes	5 Very good	
+menggonggong	bark	Anjing itu menggonggong sepanjang malam.	The dog barked all night long.	Yes	Yes	Yes	Yes	5 Very good	
+tangan	hand	Dia menulis surat dengan tangan kanan.	He writes the letter with his right hand.	Yes	Yes	Yes	Somewhat	4 Good	better translation: "Dia menulis surat dengan tangan kanannya"; missing "nya"
+surga	heaven	Banyak orang percaya bahwa surga adalah tempat yang penuh kedamaian dan kebahagiaan.	Many people believe that heaven is a place full of peace and happiness.	Yes	Yes	Yes	Yes	5 Very good	
+flu	flu	Dia tidak masuk kerja hari ini karena terkena flu.	He didn't come to work today because he caught the flu.	Yes	Yes	Yes	Yes	5 Very good	
+melemah	weaken	Setelah bekerja keras sepanjang hari, tubuhnya mulai melemah.	After working hard all day, his body began to weaken.	Yes	Yes	Yes	Yes	5 Very good	
+menghormati	honor	Kita harus selalu menghormati orang tua kita.	We should always honor our parents.	Yes	Yes	Yes	Yes	5 Very good	
+kota-kota	cities	Banyak kota-kota di Indonesia yang memiliki sejarah yang kaya dan budaya yang beragam.	Many cities in Indonesia have a rich history and diverse cultures.	Yes	Yes	Yes	Yes	5 Very good	
+depresi	depression	Setelah kehilangan pekerjaannya, Budi mengalami depresi yang mendalam.	After losing his job, Budi experienced deep depression.	Yes	Yes	Yes	Yes	5 Very good	
+topi	hat	Dia memakai topi merah saat pergi ke pasar.	She wore a red hat when she went to the market.	Yes	Yes	Yes	Yes	5 Very good	
+anak-anak	children	Anak-anak bermain di taman setiap sore.	The children play in the park every afternoon.	Yes	Yes	Yes	Yes	5 Very good	
+mendatangkan	bring	Acara tersebut mendatangkan banyak wisatawan dari berbagai negara.	The event brought many tourists from various countries.	Yes	Yes	Yes	Yes	5 Very good	
